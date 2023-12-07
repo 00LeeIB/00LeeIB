@@ -6,8 +6,7 @@
 
 # Java
 
-1. [채팅프로그램](https://github.com/Imsbee/TeamProject)
-
+1. [채팅프로그램](https://github.com/00LeeIB/JavaChat)
 # Android
 
 1. [동영상 플레이어](https://github.com/Alpaca-Parka/MJ)
