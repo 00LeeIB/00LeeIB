@@ -1,6 +1,6 @@
 # Spring Project
 
-1. [쇼핑몰 웹사이트](https://github.com/chojoohyung/shoppingmall)
+1. [쇼핑몰 웹사이트](https://github.com/00LeeIB/shoppingmall)
 
 2. [채팅 웹사이트](https://github.com/00LeeIB/chatting)
 
