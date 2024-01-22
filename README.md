@@ -2,9 +2,9 @@
 
 ### Spring Project
 
-1. [쇼핑몰 웹사이트](https://github.com/chojoohyung/shoppingmall)
+1. [쇼핑몰 웹사이트](https://github.com/00LeeIB/shoppingmall)
 
-2. [채팅 웹사이트](https://github.com/chojoohyung/Team-project)
+2. [채팅 웹사이트](https://github.com/00LeeIB/WebChatting)
 ### Java
 
 1. [채팅프로그램](https://github.com/00LeeIB/JavaChat)
