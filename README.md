@@ -4,7 +4,7 @@
 
 1. [쇼핑몰 웹사이트](https://github.com/chojoohyung/shoppingmall)
 
-2. [채팅 웹사이트](https://github.com/chojoohyung/WebChatting)
+2. [채팅 웹사이트](https://github.com/chojoohyung/Team-project)
 ### Java
 
 1. [채팅프로그램](https://github.com/00LeeIB/JavaChat)
